@@ -1,0 +1,6 @@
+{
+  "name": "Champaran Meat House",
+  "description": "Authentic Champaran Handi meat and traditional Bihari delicacies in a warm, hand-painted cozy animated world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
